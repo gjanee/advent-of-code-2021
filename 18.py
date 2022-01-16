@@ -50,7 +50,7 @@
 # regular number to the left of the exploding pair (if any), and the
 # pair's right value is added to the first regular number to the right
 # of the exploding pair (if any).  Exploding pairs will always consist
-# of two regular numbers. Then, the entire exploding pair is replaced
+# of two regular numbers.  Then, the entire exploding pair is replaced
 # with the regular number 0.
 #
 # Here are some examples of a single explode action:

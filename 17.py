@@ -168,7 +168,7 @@
 # target if the numbers work out.  But for positive vy the movement of
 # the probe is symmetric above the x axis: the sequence of vertical
 # velocities is vy, vy-1, ..., -vy+1, -vy as the probe moves from
-# y = 0, up, and, back to y = 0.  The velocity at the next step,
+# y = 0, up, and back to y = 0.  The velocity at the next step,
 # -vy-1, cannot be so negative as to cause the probe to miss the
 # target entirely, i.e., we must have vy <= -ymin-1.
 
